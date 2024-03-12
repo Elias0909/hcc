@@ -1,0 +1,19 @@
+h1{
+	font-size: 30px;
+	text-align: center;
+	font-family: arial;
+}
+p{
+	font-size: 20px;
+	text-align: center;
+	font-family: arial;
+}
+img{
+	width: 250px;
+}
+div{
+	text-align: center;
+}
+button{
+	opacity: 0;
+}
